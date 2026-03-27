@@ -1,0 +1,821 @@
+[
+  {
+    "id": 1,
+    "date": "2026-03-27",
+    "amount": 199,
+    "merchant": "Netflix",
+    "category": "Entertainment"
+  },
+  {
+    "id": 7,
+    "date": "2026-03-27",
+    "amount": 119,
+    "merchant": "Spotify",
+    "category": "Entertainment"
+  },
+  {
+    "id": 20,
+    "date": "2026-03-27",
+    "amount": 4230,
+    "merchant": "Adobe CC",
+    "category": "Software"
+  },
+  {
+    "id": 26,
+    "date": "2026-03-27",
+    "amount": 299,
+    "merchant": "Disney+ Hotstar",
+    "category": "Entertainment"
+  },
+  {
+    "id": 57,
+    "date": "2026-03-27",
+    "amount": 227,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 13,
+    "date": "2026-03-26",
+    "amount": 1499,
+    "merchant": "Amazon Prime",
+    "category": "Entertainment"
+  },
+  {
+    "id": 14,
+    "date": "2026-03-26",
+    "amount": 1500,
+    "merchant": "Cult Fit",
+    "category": "Fitness"
+  },
+  {
+    "id": 32,
+    "date": "2026-03-26",
+    "amount": 1180,
+    "merchant": "Jio Fiber",
+    "category": "Utilities"
+  },
+  {
+    "id": 59,
+    "date": "2026-03-25",
+    "amount": 1467,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 64,
+    "date": "2026-03-25",
+    "amount": 869,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 108,
+    "date": "2026-03-25",
+    "amount": 1799,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 89,
+    "date": "2026-03-24",
+    "amount": 436,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 73,
+    "date": "2026-03-22",
+    "amount": 1032,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 88,
+    "date": "2026-03-22",
+    "amount": 1810,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 104,
+    "date": "2026-03-19",
+    "amount": 1477,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 80,
+    "date": "2026-03-18",
+    "amount": 1656,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 116,
+    "date": "2026-03-16",
+    "amount": 1722,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 97,
+    "date": "2026-03-13",
+    "amount": 638,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 40,
+    "date": "2026-03-06",
+    "amount": 1924,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 74,
+    "date": "2026-03-06",
+    "amount": 1783,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 54,
+    "date": "2026-03-03",
+    "amount": 1691,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 66,
+    "date": "2026-02-26",
+    "amount": 650,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 110,
+    "date": "2026-02-26",
+    "amount": 517,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 15,
+    "date": "2026-02-25",
+    "amount": 1500,
+    "merchant": "Cult Fit",
+    "category": "Fitness"
+  },
+  {
+    "id": 21,
+    "date": "2026-02-25",
+    "amount": 4230,
+    "merchant": "Adobe CC",
+    "category": "Software"
+  },
+  {
+    "id": 33,
+    "date": "2026-02-25",
+    "amount": 1180,
+    "merchant": "Jio Fiber",
+    "category": "Utilities"
+  },
+  {
+    "id": 2,
+    "date": "2026-02-24",
+    "amount": 199,
+    "merchant": "Netflix",
+    "category": "Entertainment"
+  },
+  {
+    "id": 8,
+    "date": "2026-02-24",
+    "amount": 119,
+    "merchant": "Spotify",
+    "category": "Entertainment"
+  },
+  {
+    "id": 27,
+    "date": "2026-02-24",
+    "amount": 299,
+    "merchant": "Disney+ Hotstar",
+    "category": "Entertainment"
+  },
+  {
+    "id": 38,
+    "date": "2026-02-20",
+    "amount": 1627,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 81,
+    "date": "2026-02-18",
+    "amount": 508,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 53,
+    "date": "2026-02-16",
+    "amount": 1827,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 87,
+    "date": "2026-02-12",
+    "amount": 1625,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 68,
+    "date": "2026-02-11",
+    "amount": 1960,
+    "merchant": "Uber",
+    "category": "Transport"
+  },
+  {
+    "id": 41,
+    "date": "2026-02-07",
+    "amount": 904,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 39,
+    "date": "2026-02-05",
+    "amount": 686,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 106,
+    "date": "2026-02-04",
+    "amount": 745,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 70,
+    "date": "2026-02-03",
+    "amount": 930,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 112,
+    "date": "2026-01-30",
+    "amount": 1512,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 9,
+    "date": "2026-01-26",
+    "amount": 119,
+    "merchant": "Spotify",
+    "category": "Entertainment"
+  },
+  {
+    "id": 16,
+    "date": "2026-01-26",
+    "amount": 1500,
+    "merchant": "Cult Fit",
+    "category": "Fitness"
+  },
+  {
+    "id": 22,
+    "date": "2026-01-26",
+    "amount": 4230,
+    "merchant": "Adobe CC",
+    "category": "Software"
+  },
+  {
+    "id": 3,
+    "date": "2026-01-25",
+    "amount": 199,
+    "merchant": "Netflix",
+    "category": "Entertainment"
+  },
+  {
+    "id": 28,
+    "date": "2026-01-25",
+    "amount": 299,
+    "merchant": "Disney+ Hotstar",
+    "category": "Entertainment"
+  },
+  {
+    "id": 34,
+    "date": "2026-01-25",
+    "amount": 1180,
+    "merchant": "Jio Fiber",
+    "category": "Utilities"
+  },
+  {
+    "id": 75,
+    "date": "2026-01-25",
+    "amount": 1764,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 94,
+    "date": "2026-01-25",
+    "amount": 1838,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 58,
+    "date": "2026-01-24",
+    "amount": 1042,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 103,
+    "date": "2026-01-14",
+    "amount": 1415,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 95,
+    "date": "2026-01-12",
+    "amount": 739,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 67,
+    "date": "2026-01-11",
+    "amount": 1967,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 82,
+    "date": "2026-01-07",
+    "amount": 1394,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 51,
+    "date": "2026-01-04",
+    "amount": 1110,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 86,
+    "date": "2026-01-04",
+    "amount": 1133,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 98,
+    "date": "2026-01-03",
+    "amount": 927,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 63,
+    "date": "2026-01-01",
+    "amount": 1096,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 55,
+    "date": "2025-12-31",
+    "amount": 1897,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 90,
+    "date": "2025-12-31",
+    "amount": 1066,
+    "merchant": "Starbucks",
+    "category": "Food"
+  },
+  {
+    "id": 52,
+    "date": "2025-12-29",
+    "amount": 898,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 113,
+    "date": "2025-12-29",
+    "amount": 345,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 44,
+    "date": "2025-12-28",
+    "amount": 540,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 71,
+    "date": "2025-12-28",
+    "amount": 274,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 10,
+    "date": "2025-12-27",
+    "amount": 119,
+    "merchant": "Spotify",
+    "category": "Entertainment"
+  },
+  {
+    "id": 23,
+    "date": "2025-12-27",
+    "amount": 4230,
+    "merchant": "Adobe CC",
+    "category": "Software"
+  },
+  {
+    "id": 49,
+    "date": "2025-12-27",
+    "amount": 430,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 114,
+    "date": "2025-12-27",
+    "amount": 660,
+    "merchant": "Starbucks",
+    "category": "Food"
+  },
+  {
+    "id": 4,
+    "date": "2025-12-26",
+    "amount": 199,
+    "merchant": "Netflix",
+    "category": "Entertainment"
+  },
+  {
+    "id": 17,
+    "date": "2025-12-26",
+    "amount": 1500,
+    "merchant": "Cult Fit",
+    "category": "Fitness"
+  },
+  {
+    "id": 29,
+    "date": "2025-12-26",
+    "amount": 299,
+    "merchant": "Disney+ Hotstar",
+    "category": "Entertainment"
+  },
+  {
+    "id": 35,
+    "date": "2025-12-26",
+    "amount": 1180,
+    "merchant": "Jio Fiber",
+    "category": "Utilities"
+  },
+  {
+    "id": 65,
+    "date": "2025-12-26",
+    "amount": 1753,
+    "merchant": "Starbucks",
+    "category": "Food"
+  },
+  {
+    "id": 47,
+    "date": "2025-12-24",
+    "amount": 690,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 69,
+    "date": "2025-12-22",
+    "amount": 954,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 56,
+    "date": "2025-12-21",
+    "amount": 1878,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 62,
+    "date": "2025-12-21",
+    "amount": 935,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 91,
+    "date": "2025-12-16",
+    "amount": 1108,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 100,
+    "date": "2025-12-16",
+    "amount": 1786,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 61,
+    "date": "2025-12-13",
+    "amount": 441,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 83,
+    "date": "2025-12-11",
+    "amount": 1835,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 99,
+    "date": "2025-12-11",
+    "amount": 1530,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 60,
+    "date": "2025-12-08",
+    "amount": 515,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 48,
+    "date": "2025-12-06",
+    "amount": 869,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 109,
+    "date": "2025-11-30",
+    "amount": 462,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 50,
+    "date": "2025-11-29",
+    "amount": 1584,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 102,
+    "date": "2025-11-29",
+    "amount": 859,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 5,
+    "date": "2025-11-27",
+    "amount": 199,
+    "merchant": "Netflix",
+    "category": "Entertainment"
+  },
+  {
+    "id": 11,
+    "date": "2025-11-27",
+    "amount": 119,
+    "merchant": "Spotify",
+    "category": "Entertainment"
+  },
+  {
+    "id": 36,
+    "date": "2025-11-27",
+    "amount": 1180,
+    "merchant": "Jio Fiber",
+    "category": "Utilities"
+  },
+  {
+    "id": 18,
+    "date": "2025-11-26",
+    "amount": 1500,
+    "merchant": "Cult Fit",
+    "category": "Fitness"
+  },
+  {
+    "id": 24,
+    "date": "2025-11-26",
+    "amount": 4230,
+    "merchant": "Adobe CC",
+    "category": "Software"
+  },
+  {
+    "id": 30,
+    "date": "2025-11-26",
+    "amount": 299,
+    "merchant": "Disney+ Hotstar",
+    "category": "Entertainment"
+  },
+  {
+    "id": 117,
+    "date": "2025-11-19",
+    "amount": 968,
+    "merchant": "Zomato",
+    "category": "Food"
+  },
+  {
+    "id": 43,
+    "date": "2025-11-13",
+    "amount": 1725,
+    "merchant": "Blinkit",
+    "category": "Groceries"
+  },
+  {
+    "id": 77,
+    "date": "2025-11-09",
+    "amount": 60,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 72,
+    "date": "2025-11-02",
+    "amount": 968,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 115,
+    "date": "2025-10-31",
+    "amount": 326,
+    "merchant": "Swiggy",
+    "category": "Food"
+  },
+  {
+    "id": 6,
+    "date": "2025-10-28",
+    "amount": 199,
+    "merchant": "Netflix",
+    "category": "Entertainment"
+  },
+  {
+    "id": 12,
+    "date": "2025-10-28",
+    "amount": 119,
+    "merchant": "Spotify",
+    "category": "Entertainment"
+  },
+  {
+    "id": 19,
+    "date": "2025-10-28",
+    "amount": 1500,
+    "merchant": "Cult Fit",
+    "category": "Fitness"
+  },
+  {
+    "id": 25,
+    "date": "2025-10-28",
+    "amount": 4230,
+    "merchant": "Adobe CC",
+    "category": "Software"
+  },
+  {
+    "id": 31,
+    "date": "2025-10-27",
+    "amount": 299,
+    "merchant": "Disney+ Hotstar",
+    "category": "Entertainment"
+  },
+  {
+    "id": 37,
+    "date": "2025-10-27",
+    "amount": 1180,
+    "merchant": "Jio Fiber",
+    "category": "Utilities"
+  },
+  {
+    "id": 101,
+    "date": "2025-10-23",
+    "amount": 178,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 45,
+    "date": "2025-10-20",
+    "amount": 1775,
+    "merchant": "Starbucks",
+    "category": "Food"
+  },
+  {
+    "id": 96,
+    "date": "2025-10-20",
+    "amount": 807,
+    "merchant": "Uber",
+    "category": "Transport"
+  },
+  {
+    "id": 85,
+    "date": "2025-10-19",
+    "amount": 2008,
+    "merchant": "Amazon",
+    "category": "Shopping"
+  },
+  {
+    "id": 93,
+    "date": "2025-10-17",
+    "amount": 165,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 111,
+    "date": "2025-10-15",
+    "amount": 426,
+    "merchant": "Starbucks",
+    "category": "Food"
+  },
+  {
+    "id": 76,
+    "date": "2025-10-14",
+    "amount": 149,
+    "merchant": "Starbucks",
+    "category": "Food"
+  },
+  {
+    "id": 79,
+    "date": "2025-10-13",
+    "amount": 1580,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 105,
+    "date": "2025-10-13",
+    "amount": 1000,
+    "merchant": "Dmart",
+    "category": "Groceries"
+  },
+  {
+    "id": 42,
+    "date": "2025-10-03",
+    "amount": 1594,
+    "merchant": "Uber",
+    "category": "Transport"
+  },
+  {
+    "id": 46,
+    "date": "2025-10-03",
+    "amount": 491,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 92,
+    "date": "2025-09-30",
+    "amount": 1103,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 78,
+    "date": "2025-09-29",
+    "amount": 297,
+    "merchant": "Flipkart",
+    "category": "Shopping"
+  },
+  {
+    "id": 84,
+    "date": "2025-09-29",
+    "amount": 2026,
+    "merchant": "Shell Petrol",
+    "category": "Fuel"
+  },
+  {
+    "id": 107,
+    "date": "2025-09-29",
+    "amount": 875,
+    "merchant": "Starbucks",
+    "category": "Food"
+  }
+]
